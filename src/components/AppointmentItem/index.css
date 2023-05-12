@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.treet1 {
+  display: flex;
+  justify-content: space-between;
+}
+.treet0 {
+  width: 300px;
+  border: solid;
+  margin-right: 10px;
+  border-radius: 20px;
+  border-width: 1px;
+  border-color: #b5b7c4;
+  padding: 10px;
+}
+.star {
+  align-self: center;
+}
+.dates {
+  color: #b5b7c4;
+}
+.button123 {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
